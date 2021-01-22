@@ -1,7 +1,7 @@
 # CornConeDetector
 
 <p align="center">
-  <img src="materials/CornConeIcon.png" height=64 />
+  <img src="materials/CornConeIcon.png" height=128 />
 </p>
 
 
