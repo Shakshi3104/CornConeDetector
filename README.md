@@ -1,7 +1,7 @@
 # CornConeDetector
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shakshi3104/CornConeDetector/main/CornConeDetector/Assets.xcassets/AppIcon.appiconset/1024.png" height=64 />
+  <img src="materials/CornConeIcon.png" height=64 />
 </p>
 
 
