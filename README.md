@@ -1,8 +1,15 @@
 # CornConeDetector
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shakshi3104/CornConeDetector/main/CornConeDetector/Assets.xcassets/AppIcon.appiconset/1024.png" height=64 />
+</p>
+
+
 This application can detect **corn** (sweet corn) or **cone** (road cones, traffic cones or pylons).
 
-![gif](materials/CornConeDetector.gif)
+| | Corn | Cone |
+|:-:|:-:|:-:|
+|![gif](materials/CornConeDetector.gif)|![Corn](materials/IMG_5112.PNG)|![Cone](materials/IMG_5109.PNG)|
 
 It is base on the live capture sample code provided by Apple: [Recognizing Objects in Live Capture](https://developer.apple.com/documentation/vision/recognizing_objects_in_live_capture).
 
