@@ -11,6 +11,7 @@
 		CE32B02625BA5F4C006DFCD7 /* IMG_5109.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CE32B02425BA5F4C006DFCD7 /* IMG_5109.PNG */; };
 		CE32B02725BA5F4C006DFCD7 /* IMG_5112.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CE32B02525BA5F4C006DFCD7 /* IMG_5112.PNG */; };
 		CE32B02A25BA60CD006DFCD7 /* CornConeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = CE32B02925BA60CD006DFCD7 /* CornConeIcon.png */; };
+		CE472F2725BA816800A25BFA /* Learning_curve.png in Resources */ = {isa = PBXBuildFile; fileRef = CE472F2625BA816800A25BFA /* Learning_curve.png */; };
 		CED44EB925B9315500CFE0E3 /* CornConeDetector.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = CED44EB825B9315500CFE0E3 /* CornConeDetector.mlmodel */; };
 		FAB417F62099308400494E9C /* VisionObjectRecognitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB417F52099308400494E9C /* VisionObjectRecognitionViewController.swift */; };
 		FAD5009F1ED668B60074D713 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD5009E1ED668B60074D713 /* AppDelegate.swift */; };
@@ -27,6 +28,7 @@
 		CE32B02425BA5F4C006DFCD7 /* IMG_5109.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_5109.PNG; sourceTree = "<group>"; };
 		CE32B02525BA5F4C006DFCD7 /* IMG_5112.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_5112.PNG; sourceTree = "<group>"; };
 		CE32B02925BA60CD006DFCD7 /* CornConeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CornConeIcon.png; sourceTree = "<group>"; };
+		CE472F2625BA816800A25BFA /* Learning_curve.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Learning_curve.png; sourceTree = "<group>"; };
 		CED44EB825B9315500CFE0E3 /* CornConeDetector.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = CornConeDetector.mlmodel; sourceTree = "<group>"; };
 		E3CB966204CD821C6969C2A3 /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		FAB417F52099308400494E9C /* VisionObjectRecognitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisionObjectRecognitionViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		CE32B01C25BA5AA1006DFCD7 /* materials */ = {
 			isa = PBXGroup;
 			children = (
+				CE472F2625BA816800A25BFA /* Learning_curve.png */,
 				CE32B02925BA60CD006DFCD7 /* CornConeIcon.png */,
 				CE32B02425BA5F4C006DFCD7 /* IMG_5109.PNG */,
 				CE32B02525BA5F4C006DFCD7 /* IMG_5112.PNG */,
@@ -173,6 +176,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE32B02725BA5F4C006DFCD7 /* IMG_5112.PNG in Resources */,
+				CE472F2725BA816800A25BFA /* Learning_curve.png in Resources */,
 				FAD500A91ED668B60074D713 /* LaunchScreen.storyboard in Resources */,
 				CE32B02225BA5C9C006DFCD7 /* CornConeDetector.gif in Resources */,
 				CE32B02A25BA60CD006DFCD7 /* CornConeIcon.png in Resources */,
