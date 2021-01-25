@@ -7,9 +7,13 @@
 
 This application can detect **corn** (sweet corn) or **cone** (road cones, traffic cones or pylons). The character on the left of the app icon is [すみっコぐらし (Sumikko Gurashi)'s こーん (corn)](https://www.san-x.co.jp/sumikko/campaign/hokahoka_soup/#character).
 
-| | Corn | Cone |
+<p align="center">
+  <img src="materials/CornConeDetector.gif" height=400 />
+</p>
+
+| Corn | Cone | こーん |
 |:-:|:-:|:-:|
-|![gif](materials/CornConeDetector.gif)|![Corn](materials/IMG_5112.PNG)|![Cone](materials/IMG_5109.PNG)|
+|![Corn](materials/IMG_5112.PNG)|![Cone](materials/IMG_5109.PNG)|![こーん](materials/IMG_5142.PNG) |
 
 It is base on the live capture sample code provided by Apple: [Recognizing Objects in Live Capture](https://developer.apple.com/documentation/vision/recognizing_objects_in_live_capture).
 
