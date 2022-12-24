@@ -1,14 +1,14 @@
 # CornConeDetector
 
 <p align="center">
-  <img src="materials/CornConeIcon.png" height=128 />
+  <img src="materials/CornConeIcon.png" width=128 />
 </p>
 
 
 This application can detect **corn** (sweet corn) or **cone** (road cones, traffic cones or pylons). The character on the left of the app icon is [すみっコぐらし (Sumikko Gurashi)'s こーん (corn)](https://www.san-x.co.jp/sumikko/campaign/hokahoka_soup/#character).
 
 <p align="center">
-  <img src="materials/CornConeDetector.gif" height=400 />
+  <img src="materials/CornConeDetector.gif" width=256 />
 </p>
 
 | Corn | Cone | こーん |
